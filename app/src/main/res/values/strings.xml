@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Context Menu</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="double_value">Double Value</string>
+    <string name="cancel">Cancel</string>
+    <string name="choose">Choose</string>
+    />
+</resources>
